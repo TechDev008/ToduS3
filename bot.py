@@ -19,7 +19,7 @@ async def dl_file(client, message: Message):
     who = message.from_user.id
     state = Conversation_state.get(who)
     
-    owner = 1691811643
+    owner = 1593891519
 
 
     async def progress(current, total, client, info):
