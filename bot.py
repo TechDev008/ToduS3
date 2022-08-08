@@ -4,10 +4,10 @@ from todus3.client import ToDusClient
 import os
 
 bot = Client(
-    "S3AleBot",
-    api_hash="aqui va el api hash",
-    api_id=int(), # aqui va el api id
-    bot_token="aqui va el bot token",
+    "appbots3_techdev_bot",
+    api_hash="131b576240be107210aace99a5f5c5b0",
+    api_id=int(9024532), # aqui va el api id
+    bot_token="5598005294:AAEPgR6Erjju1Kxi6eCRoHaTxMk2d-0nA_k",
 )
 
 Conversation_state = {}
